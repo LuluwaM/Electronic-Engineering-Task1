@@ -10,6 +10,6 @@ Hardware :
 - Breadboard
 -  1 LED
 -  1 Button
-- 2 Resistor 220 ohm 
+- 2 Resistor 
 - Hookup wires
 
