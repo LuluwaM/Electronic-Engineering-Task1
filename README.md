@@ -1,4 +1,4 @@
-# Electronic-Engineering-Task1
+# Electronics-Engineering-Task1
 The first task of the electronics engineering 
 
 
